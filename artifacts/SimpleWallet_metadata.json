@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.31+commit.fd3a2265"
+		"version": "0.8.30+commit.73712a01"
 	},
 	"language": "Solidity",
 	"output": {
@@ -212,7 +212,7 @@
 		"compilationTarget": {
 			"SimpleWallet.sol": "SimpleWallet"
 		},
-		"evmVersion": "osaka",
+		"evmVersion": "prague",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -225,11 +225,11 @@
 	},
 	"sources": {
 		"SimpleWallet.sol": {
-			"keccak256": "0x5fd65753f663162deec2e263659613fc5fbb1a54c33ff51aad38d9d7103a37ab",
+			"keccak256": "0xa28653dd6d49074a55d92cfbcec1542941b265622930167e541dc513e7c2d571",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://79b6f699045842ad0a65a6b96eaa23d7d48672f4ac378afa735bba2343776840",
-				"dweb:/ipfs/QmZei2GH5MV5TJuQzwy7kwg8xktS9iKVYRHk8bWaJtSQEW"
+				"bzz-raw://eda16d222f5faa5196fd4b1b4d5a2f7ca2cd43b79b2319915a9de79ba0bfab28",
+				"dweb:/ipfs/QmNfAgdY7GsHXZLQySG6faVTgC28T8LxAsMZNL4Y4k3Ufz"
 			]
 		}
 	},
